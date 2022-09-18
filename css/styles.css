@@ -95,7 +95,8 @@ hr {
 }
 
 .contact-me {
-  margin-bottom: 50px;
+  width: 40%;
+  margin: 40px auto 60px;
 }
 
 span {
@@ -105,11 +106,6 @@ span {
 .intro {
   width: 30%;
   margin: auto;
-}
-
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
 }
 
 .top-cloud {
